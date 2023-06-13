@@ -1,4 +1,4 @@
-# Tool Developed By: ArrowXDev (https://www.github.com/arrowxdev)
+# Tool Developed By: ArrowXDev (https://www.github.com/arrow-sh)
 # Tool used: host, ping, nmap
 import os
 
